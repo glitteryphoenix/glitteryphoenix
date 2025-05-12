@@ -1,18 +1,22 @@
 <!--Header Image-->
+![Hello world. I'm Mattea](./media/overview/readme-header.png)
 
 <h2 align="left"></h2>
 
-- :earth_africa: I'm from ...
-- :wrench: I’m currently working on ...
+<!-- Emojis from (https://gist.github.com/rxaviers/7360908) -->
+- :earth_africa: I'm from Liverpool, UK.
+- :wrench: I’m currently working on a website to rate, review and categorise board games.
+- :musical_note: In my free time I like to learn new things, read books and be creative.
+  
+<!-- 
 - :seedling: I’m currently learning ...
 - :busts_in_silhouette: I’m looking to collaborate on ...
 - :thought_balloon: I’m looking for help with ...
-- :musical_note: In my free time I ...
 - :question: Ask me about ...
-- :black_nib: How to reach me: ...
 - :star: Fun fact: ...
+-->
 
-<h2 align="left"></h2>
+<h2 align="left"> Introduction </h2>
 
 <p>With a background in youth and social work, qualitative research, and mental health- my career change into tech may seem random. But whatever the context, my passion has always been about trying to improve systems to make a difference in people’s lives.
 
@@ -22,16 +26,13 @@ Having felt first-hand the impact of when things aren’t designed with accessib
 
 Please message me to talk more about interesting social initiatives, accessibility or even just to share a fun fact!</p>
 
-
-
-
-<!-- Contact -->
-
-
+<!-- Contact Badges by Markdown-Badges (https://github.com/Ileriayo/markdown-badges) -->
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matteasykes)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sykesmattea@gmail.com)
 
 <h2 align="left">Technologies</h2>
 
-<!-- Badges by Markdown-Badges (https://ileriayo.github.io/markdown-badges/) -->
+<!-- Badges by Markdown-Badges (https://github.com/Ileriayo/markdown-badges) -->
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
@@ -51,8 +52,10 @@ Please message me to talk more about interesting social initiatives, accessibili
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
 <h2 align="left">GitHub Statistics</h2>
+
+<!-- GitHub Stats from (https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file) -->
+![GlitteryPhoenix's GitHub stats](https://github-readme-stats.vercel.app/api?username=glitteryphoenix&show_icons=true&theme=neon&hide_border=true)
 
 
 
