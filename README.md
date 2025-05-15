@@ -1,15 +1,17 @@
 <!--Header Image-->
-![Hello world. I'm Mattea](./media/overview/readme-header.png)
+<!-- ![Hello world. I'm Mattea](./media/overview/readme-header.png) -->
 
-<h2 align="left"></h2>
+<h1 align="right">🇭​​🇪​​🇱​​🇱​​🇴​ ​🇼​​🇴​​🇷​​🇱​​🇩​</h1>
+
 
 <!-- Emojis from (https://gist.github.com/rxaviers/7360908) -->
+- :star: Hiya! I'm Mattea, and a full-stack development graduate from CodeOp.
 - :earth_africa: I'm from Liverpool, UK.
 - :wrench: I’m currently working on a website to rate, review and categorise board games.
+- :seedling: I’m currently learning about UX design and web accessibility.
 - :musical_note: In my free time I like to learn new things, read books and be creative.
   
 <!-- 
-- :seedling: I’m currently learning ...
 - :busts_in_silhouette: I’m looking to collaborate on ...
 - :thought_balloon: I’m looking for help with ...
 - :question: Ask me about ...
