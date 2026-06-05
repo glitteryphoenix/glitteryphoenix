@@ -5,7 +5,7 @@
 
 
 <!-- Emojis from (https://gist.github.com/rxaviers/7360908) -->
-- :star: Hiya! I'm Mattea, and I am a full-stack development graduate from CodeOp.
+- :star: Hiya! I'm Mattea, and I am a junior full-stack developer.
 - :earth_africa: I'm from Liverpool, UK.
 - :wrench: I’m currently working on a website to rate, review and categorise board games.
 - :seedling: I’m currently learning about UX design and web accessibility.
